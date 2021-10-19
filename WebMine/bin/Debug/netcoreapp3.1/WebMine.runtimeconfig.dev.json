@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mrsat\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mrsat\\.nuget\\packages"
+    ]
+  }
+}
